@@ -50,10 +50,10 @@ INIT_RAMP_SPEED = 2
 RAMP_LENGTH = 725
 
 
-# ////////////////////////////////////////////////////////////////
-# //            DECLARE APP CLASS AND SCREENMANAGER             //
-# //                     LOAD KIVY FILE                         //
-# ////////////////////////////////////////////////////////////////
+# /////////////////////////////////////////////////////////////////
+# //            DECLARE APP CLASS AND SCREENMANAGER             ///
+# //                     LOAD KIVY FILE                         ///
+# /////////////////////////////////////////////////////////////////
 class MyApp(App):
     def build(self):
         self.title = "Perpetual Motion"
